@@ -1,8 +1,12 @@
 # Marvel Combat Game
 
-This game is using the Marvel API. If you do not already have a developer account, [click here](https://developer.marvel.com/) to register an account as you will need to provide your own API Public and Private Key.
+This was done as a coding assessment for a company. I have not worked with Ruby in over 2 years since my last place of employment was a JavaScript shop.
+
+To see the requirements they sent to me, [click here](./docs/requirements.md)
 
 ## How to Run the Code
+
+This game is using the Marvel API. If you do not already have a developer account, [click here](https://developer.marvel.com/) to register an account as you will need to provide your own API Public and Private Key.
 
 The general steps needed to play this awesome game in your terminal is setting two environment variables, installing the gems and then running a ruby file.
 
